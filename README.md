@@ -20,11 +20,11 @@ A total of 6 bullets will be loaded into the barrel of a revolver and it is upto
 
 # RULES
 
-- a total of 6 bullets are used in the game
+- A total of 6 bullets are used in the game
 - 3 lives each will be given to both the dealer and the player
-- press click to start the game (it begins with the turn of the dealer)
-- you have the option of either pressing 1 or 0 to shoot yourself or the dealer
-- after deciding on what to do select the click option
+- Press click to start the game (it begins with the turn of the dealer)
+- You have the option of either pressing 1 or 0 to shoot yourself or the dealer
+- After deciding on what to do select the click option
 
 # CODE DESCRIPTION
 
